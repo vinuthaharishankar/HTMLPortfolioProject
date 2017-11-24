@@ -1,0 +1,21 @@
+.header {
+    font-family: sans-serif;
+    color: #0000ff;
+}
+
+.tagline h3 {
+
+font-style: italic;
+color: #ff0000;
+}
+
+
+.skills  li {
+    text-decoration: underline;
+}
+
+
+.contact a {
+      text-decoration: underline;
+      color: #0000ff;
+}
